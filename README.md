@@ -27,6 +27,18 @@ The EFI provided with this guide was built specifically around this hardware.
 
 ---
 
+> [!IMPORTANT]
+>
+> ## Current Compatibility Status
+>
+> Before starting, be aware of the current limitations of this EFI:
+>
+> * **Audio is currently not working.**
+> * **Wi-Fi is working**, but it is **not natively supported by macOS**. The ASUS M515DA uses a Realtek wireless adapter, so Wi-Fi is provided through the **RTW/rtw88 driver (Feixiao)** and its separate Wi-Fi interface/application.
+>
+> The rest of this guide documents the exact installation used for **macOS Tahoe 26 on the ASUS M515DA with Ryzen 5 3500U**.
+
+
 # 1. What You Need
 
 Before starting, prepare:
