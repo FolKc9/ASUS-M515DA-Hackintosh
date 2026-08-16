@@ -9,6 +9,9 @@ The installation is performed **offline**. Instead of downloading macOS through 
 
 ---
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/93cb0e44-ab68-4643-8422-2e917cd32695" />
+
+
 ## Hardware
 
 Laptop:
